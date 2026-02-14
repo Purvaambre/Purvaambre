@@ -1,4 +1,14 @@
-## Hi! I am Purva Ambre. 👋
+#👋 Hi, I'm Purva Ambre #
+
+🎓 First Year B.Tech – Computer Engineering Student
+💻 Exploring Tech | Curious Learner | Building from Scratch
+
+🌟 About Me
+
+I’m currently exploring different areas in tech to understand where I truly belong.
+I enjoy learning by experimenting — whether it’s coding, web development, problem-solving, or understanding how systems work behind the scenes.
+Right now, I’m focused on building strong fundamentals and improving my technical thinking.
+
 
 <!--
 **Purvaambre/Purvaambre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
